@@ -1,5 +1,6 @@
-Este é um teste de como criar no repositório remoto um README.md
+# senai-versoes-colaboracoes
 
 Teste concluído com êxito!
 
 lembrei do comando: git commit
+lembrei do comando: git status
